@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Defines a matrix multiplication function."""
+'''Contains a get_matrix_size and a matrix_mul function for a TDD project.
+'''
 
 
 def get_matrix_sizes(matrix_1, matrix_2, name_1, name_2):
