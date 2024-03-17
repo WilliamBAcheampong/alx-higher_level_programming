@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Module that that lists all cities from the database"""
 
 
